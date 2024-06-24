@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\bin\Debug\net8.0\Fundamentos de POO.exe
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\bin\Debug\net8.0\Fundamentos de POO.deps.json
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\bin\Debug\net8.0\Fundamentos de POO.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\bin\Debug\net8.0\Fundamentos de POO.dll
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\bin\Debug\net8.0\Fundamentos de POO.pdb
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\obj\Debug\net8.0\Fundamentos de POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\obj\Debug\net8.0\Fundamentos de POO.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\obj\Debug\net8.0\Fundamentos de POO.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\obj\Debug\net8.0\Fundamentos de POO.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\obj\Debug\net8.0\Fundamentos de POO.dll
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\obj\Debug\net8.0\refint\Fundamentos de POO.dll
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\obj\Debug\net8.0\Fundamentos de POO.pdb
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\obj\Debug\net8.0\Fundamentos de POO.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Principios fundamentales de la programación Orientada a Objetos\Elementos\Fundamentos de POO\Fundamentos de POO\obj\Debug\net8.0\ref\Fundamentos de POO.dll

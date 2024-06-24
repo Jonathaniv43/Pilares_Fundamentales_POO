@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fundamentos de POO/1.0.0": {
+        "runtime": {
+          "Fundamentos de POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentos de POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
